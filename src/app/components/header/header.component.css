@@ -1,0 +1,29 @@
+header {
+  background: blue;
+  height: 50px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 200px;
+  font-size: 18px;
+}
+
+ul.nav {
+    list-style: none;
+    top: 0;
+}
+
+ul.nav li {
+  float: left;
+  color: white;
+  padding: 15px 15px;
+}
+
+.menu button {
+    float: left;
+    margin: 14px;
+}
+
+.menu li {
+    float:left;
+}
